@@ -7,7 +7,6 @@ the IntelliJ IDE - by using the *Import Project* option and specifying
 Gradle.  The instructions below assume the use of the command line.
 
 
-
 ## Building The Application
 
 You can build the application on the command line with
@@ -54,3 +53,7 @@ Code can be compressed as a `.zip` archive with:
     ./gradlew compress
 
 [1]: https://gradle.org
+
+---
+
+_This project is from 2019, the updates in 2022 was from me migrating from GitLab to GitHub_
